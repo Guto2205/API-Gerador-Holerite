@@ -1,0 +1,7 @@
+br\com\holerite\dto\UsuarioDTO.class
+br\com\holerite\controller\UsuarioController.class
+br\com\holerite\entity\Usuario.class
+br\com\holerite\service\impl\UsuarioServiceImpl.class
+br\com\holerite\service\UsuarioService.class
+br\com\holerite\dao\UsuarioDao.class
+br\com\holerite\HolereiteProjectApplication.class
